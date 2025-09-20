@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction — Comprehensive ML Pipeline  
+# Heart Disease Prediction — Comprehensive ML Pipeline  
 A complete machine learning project to predict heart disease risk using the UCI Heart Disease Dataset.
 
 ## 📌 Project Overview  
@@ -111,3 +111,7 @@ Evaluation metrics: Accuracy, Precision, Recall, F1, ROC-AUC.
 - Final optimized model saved as:  
   ```bash
   models/final_model.pkl
+
+### 8️⃣ Deployment (Bonus)  
+- **Streamlit UI (`app.py`)**: interactive web app for predictions.  
+- **Ngrok**: creates public tunnel link for app sharing.  
