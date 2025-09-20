@@ -1,6 +1,5 @@
 # ❤️ Heart Disease Prediction — Comprehensive ML Pipeline  
-
-![Project Banner](images/banner.png) <!-- 🔹 Replace with your banner -->
+A complete machine learning project to predict heart disease risk using the UCI Heart Disease Dataset.
 
 ## 📌 Project Overview  
 This project implements a **full machine learning pipeline** on the **UCI Heart Disease Dataset**.  
@@ -39,9 +38,6 @@ We use the [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/h
 
 - **Target:** Presence of heart disease (`1 = disease`, `0 = no disease`).  
 - **Features:** Age, sex, chest pain type, blood pressure, cholesterol, fasting blood sugar, max heart rate, ST depression, slope, ca, thal, etc.  
-
-📌 Example snapshot:  
-![Dataset Preview](images/dataset_preview.png)
 
 ---
 
@@ -87,11 +83,9 @@ Models trained:
 
 Evaluation metrics: Accuracy, Precision, Recall, F1, ROC-AUC.  
 
-📌 Example Confusion Matrix:  
-![Confusion Matrix](images/confusion_matrix.png)
+## Model Performance Comparison
+![Model Performance](images/chart.png)
 
-📌 Example ROC Curve:  
-![ROC Curve](images/roc_curve.png)
 
 ---
 
